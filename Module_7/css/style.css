@@ -1,0 +1,18 @@
+.box{
+    width: 150px;
+    height: 100px;
+    border: 2px solid gray;
+    padding: 20px;
+}
+.box-container{
+    display: flex;
+}
+.user{
+    padding: 20px;
+    border: 2px solid gray;
+    width: 75px;
+    margin: 10px;
+}
+.content{
+    display: flex;
+}

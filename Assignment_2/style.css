@@ -1,0 +1,114 @@
+.nevbars {
+    padding: 20px;
+    height: 120px;
+    margin: auto;
+    background-color: rgb(94, 171, 77);
+    text-align: center;
+
+}
+
+.list_color {
+    color: red;
+    gap: 20px;
+    padding-top: 10px;
+    cursor: pointer;
+
+}
+
+.cursors:hover {
+    color: black;
+    background-color: red;
+
+}
+
+.comment {
+    text-align: center;
+    padding: 20px;
+    background-color: red;
+}
+
+.product_section {
+
+    width: 80%;
+    margin: auto;
+    gap: 7px;
+    text-align: center;
+    border: 2px solid rgb(99, 41, 41);
+    /* margin-right: 100px; */
+    
+}
+
+.card {
+    border: 2px solid rgb(134, 13, 13);
+    padding: 10px;
+    box-shadow: 4px 4px 8px rgb(226, 179, 37);
+    
+}
+
+.img_size {
+    width: 250px;
+    height: 200px;
+    gap: 40px;
+}
+
+.addToCart {
+    /* width: 300px;
+    height: 100%; */
+    /* margin: auto; */
+    padding: 20px;
+    box-shadow: 4px 4px 8px gray; 
+    text-align: center;
+    
+}
+
+.cardstoadd{
+    color: blue;
+    background-color: rgb(92, 237, 24);
+}
+.modal_section{
+    margin-left: 50px;
+
+}
+.btns{
+    color: red;
+    width:200px;
+    margin-left: 30px;
+    background-color: rgb(7, 234, 45);
+
+}
+.btns:hover{
+    color: green;
+    background-color: rgb(6, 38, 38);
+}
+.search_section{
+    width: 120px;
+    background-color: rgb(13, 232, 93);
+}
+.search_section:hover{
+    color: green;
+    background-color: rgb(255, 115, 0);
+}
+.modal-body{
+    padding: 20px;
+    border: 2px solid gray;
+    margin: auto;
+    text-align: center;
+
+}
+.modal-title{
+    margin-left: 140px;
+   
+    
+}
+
+.footer{
+    background: linear-gradient(rgb(56, 215, 164),rgb(227, 233, 227));
+}
+
+
+.main_div{
+    background: linear-gradient(rgb(71, 240, 167),white);
+}
+.container{
+    background-color: aquamarine;
+}

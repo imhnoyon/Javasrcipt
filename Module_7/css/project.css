@@ -1,0 +1,32 @@
+.main_container{
+    display: flex;
+    justify-content: space-around;
+}
+.card-container{
+    width: 200px;
+    box-shadow: 4px 4px 8px gray;
+    margin: auto;
+   text-align: center;
+}
+.product-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 10px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+.card{
+    border: 2px solid gray;
+    padding: 10px;
+}
+.card_img{
+    width: 150px;
+    height: 150px;
+}
+.titlePrice{
+    display: flex;
+    justify-content: space-around;
+   
+}
